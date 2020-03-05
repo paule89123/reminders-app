@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reminders-app/static/css/main.f7ed3091.chunk.css",
+    "main.js": "/reminders-app/static/js/main.fb5564a0.chunk.js",
+    "main.js.map": "/reminders-app/static/js/main.fb5564a0.chunk.js.map",
+    "runtime-main.js": "/reminders-app/static/js/runtime-main.f73650dc.js",
+    "runtime-main.js.map": "/reminders-app/static/js/runtime-main.f73650dc.js.map",
+    "static/js/2.203eac9f.chunk.js": "/reminders-app/static/js/2.203eac9f.chunk.js",
+    "static/js/2.203eac9f.chunk.js.map": "/reminders-app/static/js/2.203eac9f.chunk.js.map",
+    "index.html": "/reminders-app/index.html",
+    "precache-manifest.15be7f7f912a8b836ef37457a6a417ce.js": "/reminders-app/precache-manifest.15be7f7f912a8b836ef37457a6a417ce.js",
+    "service-worker.js": "/reminders-app/service-worker.js",
+    "static/css/main.f7ed3091.chunk.css.map": "/reminders-app/static/css/main.f7ed3091.chunk.css.map",
+    "static/js/2.203eac9f.chunk.js.LICENSE.txt": "/reminders-app/static/js/2.203eac9f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reminders-app/static/media/TiemposHeadline-Semibold.36153d46.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f73650dc.js",
+    "static/js/2.203eac9f.chunk.js",
+    "static/css/main.f7ed3091.chunk.css",
+    "static/js/main.fb5564a0.chunk.js"
+  ]
+}
