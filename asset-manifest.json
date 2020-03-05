@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/reminders-app/static/css/main.f7ed3091.chunk.css",
-    "main.js": "/reminders-app/static/js/main.fb5564a0.chunk.js",
-    "main.js.map": "/reminders-app/static/js/main.fb5564a0.chunk.js.map",
+    "main.css": "/reminders-app/static/css/main.5907ba2a.chunk.css",
+    "main.js": "/reminders-app/static/js/main.4048e746.chunk.js",
+    "main.js.map": "/reminders-app/static/js/main.4048e746.chunk.js.map",
     "runtime-main.js": "/reminders-app/static/js/runtime-main.f73650dc.js",
     "runtime-main.js.map": "/reminders-app/static/js/runtime-main.f73650dc.js.map",
-    "static/js/2.203eac9f.chunk.js": "/reminders-app/static/js/2.203eac9f.chunk.js",
-    "static/js/2.203eac9f.chunk.js.map": "/reminders-app/static/js/2.203eac9f.chunk.js.map",
+    "static/js/2.564227b7.chunk.js": "/reminders-app/static/js/2.564227b7.chunk.js",
+    "static/js/2.564227b7.chunk.js.map": "/reminders-app/static/js/2.564227b7.chunk.js.map",
     "index.html": "/reminders-app/index.html",
-    "precache-manifest.15be7f7f912a8b836ef37457a6a417ce.js": "/reminders-app/precache-manifest.15be7f7f912a8b836ef37457a6a417ce.js",
+    "precache-manifest.3ee7449e82d8520a537dd50bdc4861d4.js": "/reminders-app/precache-manifest.3ee7449e82d8520a537dd50bdc4861d4.js",
     "service-worker.js": "/reminders-app/service-worker.js",
-    "static/css/main.f7ed3091.chunk.css.map": "/reminders-app/static/css/main.f7ed3091.chunk.css.map",
-    "static/js/2.203eac9f.chunk.js.LICENSE.txt": "/reminders-app/static/js/2.203eac9f.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/reminders-app/static/media/TiemposHeadline-Semibold.36153d46.otf"
+    "static/css/main.5907ba2a.chunk.css.map": "/reminders-app/static/css/main.5907ba2a.chunk.css.map",
+    "static/js/2.564227b7.chunk.js.LICENSE.txt": "/reminders-app/static/js/2.564227b7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reminders-app/static/media/TiemposHeadline-Semibold.36153d46.otf",
+    "static/media/add.svg": "/reminders-app/static/media/add.1e71bac7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f73650dc.js",
-    "static/js/2.203eac9f.chunk.js",
-    "static/css/main.f7ed3091.chunk.css",
-    "static/js/main.fb5564a0.chunk.js"
+    "static/js/2.564227b7.chunk.js",
+    "static/css/main.5907ba2a.chunk.css",
+    "static/js/main.4048e746.chunk.js"
   ]
 }
