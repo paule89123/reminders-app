@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reminders-app/static/css/main.5907ba2a.chunk.css",
-    "main.js": "/reminders-app/static/js/main.4048e746.chunk.js",
-    "main.js.map": "/reminders-app/static/js/main.4048e746.chunk.js.map",
+    "main.css": "/reminders-app/static/css/main.94e5edee.chunk.css",
+    "main.js": "/reminders-app/static/js/main.fe6293a7.chunk.js",
+    "main.js.map": "/reminders-app/static/js/main.fe6293a7.chunk.js.map",
     "runtime-main.js": "/reminders-app/static/js/runtime-main.f73650dc.js",
     "runtime-main.js.map": "/reminders-app/static/js/runtime-main.f73650dc.js.map",
     "static/js/2.564227b7.chunk.js": "/reminders-app/static/js/2.564227b7.chunk.js",
     "static/js/2.564227b7.chunk.js.map": "/reminders-app/static/js/2.564227b7.chunk.js.map",
     "index.html": "/reminders-app/index.html",
-    "precache-manifest.3ee7449e82d8520a537dd50bdc4861d4.js": "/reminders-app/precache-manifest.3ee7449e82d8520a537dd50bdc4861d4.js",
+    "precache-manifest.191b5127d6a214bdb2230c0b7a514a1a.js": "/reminders-app/precache-manifest.191b5127d6a214bdb2230c0b7a514a1a.js",
     "service-worker.js": "/reminders-app/service-worker.js",
-    "static/css/main.5907ba2a.chunk.css.map": "/reminders-app/static/css/main.5907ba2a.chunk.css.map",
+    "static/css/main.94e5edee.chunk.css.map": "/reminders-app/static/css/main.94e5edee.chunk.css.map",
     "static/js/2.564227b7.chunk.js.LICENSE.txt": "/reminders-app/static/js/2.564227b7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/reminders-app/static/media/TiemposHeadline-Semibold.36153d46.otf",
-    "static/media/add.svg": "/reminders-app/static/media/add.1e71bac7.svg"
+    "static/media/plus.svg": "/reminders-app/static/media/plus.a5cdd35d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f73650dc.js",
     "static/js/2.564227b7.chunk.js",
-    "static/css/main.5907ba2a.chunk.css",
-    "static/js/main.4048e746.chunk.js"
+    "static/css/main.94e5edee.chunk.css",
+    "static/js/main.fe6293a7.chunk.js"
   ]
 }

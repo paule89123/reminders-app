@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "539052820163d98278491da4e5a76700",
+    "revision": "00e8a57be4666126768f841ad31a5f78",
     "url": "/reminders-app/index.html"
   },
   {
-    "revision": "4b57a9740ab240785ec1",
-    "url": "/reminders-app/static/css/main.5907ba2a.chunk.css"
+    "revision": "4685a462a069fd346406",
+    "url": "/reminders-app/static/css/main.94e5edee.chunk.css"
   },
   {
     "revision": "b96b9a999e431489b6ad",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reminders-app/static/js/2.564227b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b57a9740ab240785ec1",
-    "url": "/reminders-app/static/js/main.4048e746.chunk.js"
+    "revision": "4685a462a069fd346406",
+    "url": "/reminders-app/static/js/main.fe6293a7.chunk.js"
   },
   {
     "revision": "a0ef32d31888125403f3",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reminders-app/static/media/TiemposHeadline-Semibold.36153d46.otf"
   },
   {
-    "revision": "1e71bac71dbb669f76025968bfe92ba4",
-    "url": "/reminders-app/static/media/add.1e71bac7.svg"
+    "revision": "a5cdd35d57642abdff642241b49bbfbc",
+    "url": "/reminders-app/static/media/plus.a5cdd35d.svg"
   }
 ]);
