@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import add from './add.svg'
+import add from './plus.svg'
 
 function App(props) {
     return (
