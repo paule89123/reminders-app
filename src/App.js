@@ -15,10 +15,12 @@ function App(props) {
                     placeholder="Type a reminder..."
                     onChange={props.onChange}
                     value={props.newItem}
+                    aria-label="Type your reminders here"
                 />
 
                 <img 
                     id="add-button"
+                    alt="add button"
                     src={add}
                     onClick={props.onClick}
                 />
@@ -32,6 +34,7 @@ function App(props) {
                   </li>
                   <img 
                         id="remove-button"
+                        alt="remove button"
                         src={add} 
                         onClick={() => props.deleteItem(item.id)} 
                   />
