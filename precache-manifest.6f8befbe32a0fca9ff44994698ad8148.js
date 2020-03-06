@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00e8a57be4666126768f841ad31a5f78",
+    "revision": "a52e90d4db40d287c8dd5b783920a2f5",
     "url": "/reminders-app/index.html"
   },
   {
-    "revision": "4685a462a069fd346406",
+    "revision": "0427f62e3e670a38446a",
     "url": "/reminders-app/static/css/main.94e5edee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reminders-app/static/js/2.564227b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4685a462a069fd346406",
-    "url": "/reminders-app/static/js/main.fe6293a7.chunk.js"
+    "revision": "0427f62e3e670a38446a",
+    "url": "/reminders-app/static/js/main.f33aa97f.chunk.js"
   },
   {
     "revision": "a0ef32d31888125403f3",
