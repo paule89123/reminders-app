@@ -149,10 +149,11 @@ input:focus, #add-button:focus, #remove-button:focus {
 
     h1 {
         font-size: 80px;
+        font-size: 14vw;
     }
 
     input {
-        font-size: 40px;
+        font-size: 7vw;
     }
 
     #list-text {
