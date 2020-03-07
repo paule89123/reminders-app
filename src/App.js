@@ -5,7 +5,7 @@ import add from './plus.svg'
 function App(props) {
     return (
         <div>
-            <h1>Reminders<span class="heading-full-stop">.</span></h1>
+            <h1>Reminders<span id="heading-full-stop">.</span></h1>
 
             <div id="input-container">
                 <input
