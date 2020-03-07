@@ -41,7 +41,7 @@ h1 {
 #text-input {
     grid-column-start: 2;
     grid-column-end: 3;
-    min-width: 100px;
+    min-width: 10px;
     /*padding: 30px 0px 30px 0px;*/
 }
 
@@ -60,7 +60,8 @@ li {
     padding: 5px 10px 8px 10px;
     border-radius: 22px;
     word-wrap: break-word;
-    box-shadow: rgba(100,106,145,0.15) 0 6px 24px
+    box-shadow: rgba(100,106,145,0.15) 0 6px 24px;
+    justify-self: stretch;
 }
 
 input {
@@ -70,7 +71,7 @@ input {
     border: none;
     border-bottom: 2px solid white;
     color: darkblue;
-
+    border-radius: 0px;
 }
 
 input:focus, #add-button:focus, #remove-button:focus {
@@ -140,23 +141,28 @@ input:focus, #add-button:focus, #remove-button:focus {
 }
 @media (max-width: 600px) {
     #input-container { 
-        grid-template-columns: 7% auto 10% 7%;
+        grid-template-columns: 21px auto 54px 21px;
     }
 
     #item-container { 
-        grid-template-columns: 7% auto 10% 7%;
+        grid-template-columns: 21px auto 54px 21px;
     }
 
     h1 {
-        font-size: 80px;
-        font-size: 14vw;
+        font-size: 16.6vw;
     }
 
     input {
-        font-size: 7vw;
+        font-size: 8.3vw;
     }
 
     #list-text {
-        font-size: 20px;
+        font-size: 5.2vw;
+        position: relative;
+    }
+
+    #bullet-point {
+        font-size: 16.6vw;
+        line-height: 3vw;
     }
 }
