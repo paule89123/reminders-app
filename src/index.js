@@ -44,7 +44,6 @@ class Index extends React.Component {
 		var arrayCopy = [...this.state.array];
 		var updatedArray = arrayCopy.filter(item => item.id !== id)
 		this.setState({ array: updatedArray });
-		document.querySelector("#text-input").focus();
 	}
 
 	render() {

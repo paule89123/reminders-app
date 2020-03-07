@@ -33,7 +33,6 @@ h1 {
 
 #input-container { 
     grid-template-columns: 25% auto 5% 20%;
-    /*grid-template-rows: 44px;*/
     display: grid;
     margin-bottom: 18px;
 }
@@ -148,7 +147,7 @@ input:focus, #add-button:focus, #remove-button:focus {
     }
 
     h1 {
-        font-size: 16.4vw;
+        font-size: 16.3vw;
     }
 
     input {
