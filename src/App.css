@@ -42,7 +42,6 @@ h1 {
     grid-column-start: 2;
     grid-column-end: 3;
     min-width: 10px;
-    /*padding: 30px 0px 30px 0px;*/
 }
 
 #item-container {
@@ -149,15 +148,16 @@ input:focus, #add-button:focus, #remove-button:focus {
     }
 
     h1 {
-        font-size: 16.6vw;
+        font-size: 16.4vw;
     }
 
     input {
-        font-size: 8.3vw;
+        font-size: 8.1vw;
+        padding: 0;
     }
 
     #list-text {
-        font-size: 5.2vw;
+        font-size: 5vw;
         position: relative;
     }
 
